@@ -3,9 +3,11 @@
 Real-time face mask detection using OpenCV and TensorFlow.
 
 🔧 Install
+
 pip install opencv-python tensorflow numpy imutils
 
 ▶️ Run
+
 python mask_detector_final.py
 
 ✨ Features
